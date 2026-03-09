@@ -2,6 +2,12 @@
 
 Nepes corporate color scheme for tmux — dark and light variants.
 
+## Screenshots
+
+| Dark | Light |
+|------|-------|
+| ![Dark](docs/dark.png) | ![Light](docs/light.png) |
+
 ## Install
 
 Source the desired theme in your `tmux.conf`:
